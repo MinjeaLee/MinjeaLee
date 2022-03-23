@@ -56,5 +56,6 @@
   - Cyber Defense Track (2021.03 ~ )
 - **Sejong University's security club S!** (2021.06 ~ )
   - Pwnable Study
-
+  - Network Study
+    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinjeaLee&show_icons=true&theme=buefy)
