@@ -3,8 +3,8 @@
 <p align="center" style="font-size : 25px;">🇰🇷</p>
 
 <p align="center">
-    <a href="https://www.notion.so/c5f5cebf6ae5414aa459c83e11ceddfa"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
-    <img alt="Notion" src="https://img.shields.io/badge/leejoy2@sju.ac.kr-0078D4.svg?style=for-the-badge&logo=microsoft outlook&logoColor=white">
+    <a href="https://lily-rooster-900.notion.site/Minjea-Lee-1e3d7fb178a742c9875e99062400bd03"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
+    <img alt="outlook" src="https://img.shields.io/badge/leejoy2@sju.ac.kr-0078D4.svg?style=for-the-badge&logo=microsoft outlook&logoColor=white">
     
 </p>
 
