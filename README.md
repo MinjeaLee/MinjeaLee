@@ -60,4 +60,4 @@
   - Pwnable Study
 - **42seoul La Piscine** (2021.09 ~ 2021.10)
 
-![Minjea's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinjeaLee&show_icons=true&theme=buefy)   [![Minjea's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MinjeaLee&layout=compact&theme=buefy)](https://github.com/MinjeaLee)
+![Minjea's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinjeaLee&show_icons=true&theme=buefy) [![Minjea's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MinjeaLee&layout=compact&theme=buefy)](https://github.com/MinjeaLee)
