@@ -49,7 +49,8 @@
     - System Hacking
     - Web Hacking
     - Cloud Hacking
-
+- backend development
+  - Django
 <br>
 
 #### 🎓 Education
@@ -59,5 +60,6 @@
 - **Sejong University's security club S!** (2021.06 ~ )
   - Pwnable Study
 - **42seoul La Piscine** (2021.09 ~ 2021.10)
+- **42seoul Cursus** (2021.11 ~ )
 
 ![Minjea's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinjeaLee&show_icons=true&theme=buefy) [![Minjea's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MinjeaLee&layout=compact&theme=buefy)](https://github.com/MinjeaLee)
