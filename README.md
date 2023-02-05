@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=D2coding&pause=1000&color=C9C9FF&center=true&width=435&lines=%F0%9D%91%AF%F0%9D%92%86%F0%9D%92%8D%F0%9D%92%8D%F0%9D%92%90+%F0%9F%91%8B%F0%9F%8F%BB+%F0%9D%91%B3%F0%9D%92%86%F0%9D%92%86%F0%9D%91%B4%F0%9D%92%8A%F0%9D%92%8F%F0%9D%92%8B%F0%9D%92%86%F0%9D%92%82'%F0%9D%92%94+%F0%9D%91%AE%F0%9D%92%8A%F0%9D%92%95%F0%9D%92%89%F0%9D%92%96%F0%9D%92%83)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=D2coding&weight=800&size=25&pause=1000&color=C9C9FF&center=true&width=435&lines=%F0%9D%91%AF%F0%9D%92%86%F0%9D%92%8D%F0%9D%92%8D%F0%9D%92%90+%F0%9F%91%8B%F0%9F%8F%BB+%F0%9D%91%B3%F0%9D%92%86%F0%9D%92%86%F0%9D%91%B4%F0%9D%92%8A%F0%9D%92%8F%F0%9D%92%8B%F0%9D%92%86%F0%9D%92%82'%F0%9D%92%94+%F0%9D%91%AE%F0%9D%92%8A%F0%9D%92%95%F0%9D%92%89%F0%9D%92%96%F0%9D%92%83)](https://git.io/typing-svg)
 
 <p align="center" style="font-size : 25px;">🇰🇷</p>
 
