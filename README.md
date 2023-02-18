@@ -59,7 +59,8 @@
   - Cyber Defense Track (2021.03 ~ )
 - **Sejong University's security club S!** (2021.06 ~ )
   - Pwnable Study
-- **42seoul La Piscine** (2021.09 ~ 2021.10)
-- **42seoul Cursus** (2021.11 ~ )
+  - Alert Project, backend (2022.03 ~ 2022.12)
+- **42seoul La Piscine** (2022.09 ~ 2022.10)
+- **42seoul Cursus** (2022.11 ~ )
 
 ![Minjea's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinjeaLee&show_icons=true&theme=buefy) [![Minjea's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MinjeaLee&layout=compact&theme=buefy)](https://github.com/MinjeaLee)
