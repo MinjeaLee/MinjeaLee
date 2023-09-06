@@ -66,6 +66,7 @@
   - Attack & Defense CTF Development Project (2023.04 ~ )
 - **42seoul La Piscine, Innovation Academy** (2022.09 ~ 2022.10)
 - **42seoul Cursus, Innovation Academy** (2022.11 ~ )
-- **AI security technology development, KISIA** (2023.05 ~ )
+- **AI security technology development, KISIA** (2023.05 ~ 2323.07)
+- **Whitehat School, KITRI** (2023.09 ~ )
 
 ![Minjea's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinjeaLee&show_icons=true&theme=buefy) [![Minjea's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MinjeaLee&layout=compact&theme=buefy)](https://github.com/MinjeaLee)
