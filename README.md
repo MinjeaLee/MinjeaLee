@@ -68,6 +68,8 @@
 - **42seoul Cursus, Innovation Academy** (2022.11 ~ 2024.01)
 - **AI security technology development, KISIA** (2023.05 ~ 2323.07)
 - **Whitehat School, KITRI** (2023.09 ~ 2024.01)
+
+#### 💼 Career
 - **AI Spera, Jr. Security Engineer** (2024.01 ~ )
 
 ![Minjea's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinjeaLee&show_icons=true&theme=buefy) [![Minjea's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MinjeaLee&layout=compact&theme=buefy)](https://github.com/MinjeaLee)
