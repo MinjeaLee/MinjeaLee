@@ -62,11 +62,12 @@
 - **Sejong University's security club S!** (2021.06 ~ )
   - Pwnable Study
   - Alert Project, backend (2022.03 ~ 2022.12)
-  - Club President (2023.01 ~ )
-  - Attack & Defense CTF Development Project (2023.04 ~ )
+  - Club President (2023.01 ~ 2024.01)
+  - Attack & Defense CTF Development Project (2023.04 ~ 2023.12)
 - **42seoul La Piscine, Innovation Academy** (2022.09 ~ 2022.10)
-- **42seoul Cursus, Innovation Academy** (2022.11 ~ )
+- **42seoul Cursus, Innovation Academy** (2022.11 ~ 2024.01)
 - **AI security technology development, KISIA** (2023.05 ~ 2323.07)
-- **Whitehat School, KITRI** (2023.09 ~ )
+- **Whitehat School, KITRI** (2023.09 ~ 2024.01)
+- **AI Spera, Jr. Security Engineer** (2024.01 ~ )
 
 ![Minjea's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinjeaLee&show_icons=true&theme=buefy) [![Minjea's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MinjeaLee&layout=compact&theme=buefy)](https://github.com/MinjeaLee)
