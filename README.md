@@ -47,9 +47,8 @@
 #### ⚡ Research Interests
 - Information Security
     - System Hacking
-    - Web Hacking
-    - AI Security
-    - Cloud Hacking
+    - Reversing
+    - Fuzzing
 - backend development
   - Django
 
